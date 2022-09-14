@@ -12,4 +12,6 @@
 
 <li> BabylonJS solar system is deployed here - http://srv12.mikr.us:20341/ </li>
 
+<li> GPW Analytics app (under development) is deployed here - http://srv12.mikr.us:40084/ </li>
+
 
