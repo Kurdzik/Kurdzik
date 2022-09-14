@@ -4,11 +4,12 @@
 
 <hr>
 Currently deployed applications:
-<br>
-Memory Networks model is deployed [here](http://srv12.mikr.us:30341/)
 
-Car valuation app is deployed [here](http://srv12.mikr.us:40076/)
 
-BabylonJS solar system is deployed [here](http://srv12.mikr.us:20341/)
+<li> Memory Networks model is deployed [here](http://srv12.mikr.us:30341/)
+
+<li> Car valuation app is deployed [here](http://srv12.mikr.us:40076/)
+
+<li> BabylonJS solar system is deployed [here](http://srv12.mikr.us:20341/)
 
 
