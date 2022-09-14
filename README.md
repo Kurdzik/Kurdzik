@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Kurdzik)
 
 <hr>
-Currently deployed applications:
+<h4> Currently deployed applications: </h4>
 
 
 <li> Memory Networks model is deployed [here](http://srv12.mikr.us:30341/)
