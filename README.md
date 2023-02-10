@@ -12,6 +12,6 @@
 
 <li> BabylonJS solar system is deployed here - https://solar-system.cytr.us/ </li>
 
-<li> GPW Analytics app (under development) is deployed here - https://gpw-app.cytr.us/ </li>
+<li> GPW Analytics app is deployed here - https://gpw-app.cytr.us/ </li>
 
 
