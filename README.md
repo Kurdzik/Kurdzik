@@ -10,8 +10,6 @@
 
 <li> Car valuation app is deployed here - https://car-valuation.cytr.us/ </li>
 
-<li> BabylonJS solar system is deployed here - https://solar-system.cytr.us/ </li>
-
 <li> GPW Analytics app is deployed here - https://gpw-app.cytr.us/ </li>
 
 
